@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mvp Sample Project</string>
+    <string name="genre">Genre</string>
+    <string name="author">Author</string>
+    <string name="title">Title</string>
+    <string name="back">Back</string>
+    <string name="all_books">All Books</string>
+    <string name="error_message">Please fill out the required fields</string>
+    <string name="successfully_added_book">"Book %s successfully added!"</string>
+</resources>
