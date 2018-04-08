@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MvpSampleProject.iml" filepath="$PROJECT_DIR$/MvpSampleProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CI-CD-TestProject.iml" filepath="$PROJECT_DIR$/CI-CD-TestProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
